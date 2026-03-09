@@ -38,16 +38,16 @@ IT student @ NEUST · Gapan City, Philippines · building fullstack from the gro
 ## 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eimiii1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimiii1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eimiii1&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimiii1&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eimiii1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eimiii1&theme=gruvbox&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eimiii1&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eimiii1&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
