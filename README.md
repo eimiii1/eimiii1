@@ -4,6 +4,10 @@ they teach slides. i build things.
 
 IT student @ NEUST · Gapan City, Philippines · building fullstack from the ground up
 
+[![Portfolio](https://img.shields.io/badge/portfolio-philip--barcelo.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://philip-barcelo.vercel.app)
+[![Gmail](https://img.shields.io/badge/email-phlpbarcelo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phlpbarcelo@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-Philip_Barcelo-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/johnphilip.barcelo/)
+
 ---
 
 ## 🛠 tech stack
@@ -31,6 +35,23 @@ IT student @ NEUST · Gapan City, Philippines · building fullstack from the gro
 
 ---
 
+## 📊 github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eimiii1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimiii1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eimiii1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eimiii1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 📍 currently learning
 
 grinding backend fundamentals — no frameworks until the foundation is solid.
@@ -47,17 +68,3 @@ grinding backend fundamentals — no frameworks until the foundation is solid.
 - [ ] DevOps & Deployment
 
 → follow along: **[structured-backend](https://github.com/eimiii1/structured-backend)**
-
----
-
-## 🌐 portfolio
-
-**[philip-barcelo.vercel.app](https://philip-barcelo.vercel.app)**
-
----
-
-## 📫 reach me
-
-[![Gmail](https://img.shields.io/badge/phlpbarcelo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phlpbarcelo@gmail.com)
-[![GitHub](https://img.shields.io/badge/eimiii1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eimiii1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/johnphilip.barcelo/)
