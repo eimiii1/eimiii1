@@ -43,7 +43,7 @@ IT Student @ NEUST · Gapan City, Philippines · Building fullstack from the gro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eimiii1&theme=gruvbox&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=eimiii1&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
