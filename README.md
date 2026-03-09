@@ -1,18 +1,18 @@
-# hey, i'm philip 👋
+# Hi, I'm Philip Barcelo 👋
 
-they teach slides. i build things.
+They teach slides. I build things.
 
-IT student @ NEUST · Gapan City, Philippines · building fullstack from the ground up
+IT Student @ NEUST · Gapan City, Philippines · Building fullstack from the ground up
 
-[![Portfolio](https://img.shields.io/badge/portfolio-philip--barcelo.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://philip-barcelo.vercel.app)
-[![Gmail](https://img.shields.io/badge/email-phlpbarcelo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phlpbarcelo@gmail.com)
-[![Facebook](https://img.shields.io/badge/facebook-Philip_Barcelo-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/johnphilip.barcelo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-philip--barcelo.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://philip-barcelo.vercel.app)
+[![Gmail](https://img.shields.io/badge/Email-phlpbarcelo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phlpbarcelo@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Philip_Barcelo-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/johnphilip.barcelo/)
 
 ---
 
-## 🛠 tech stack
+## 🛠 Tech Stack
 
-**frontend**
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -20,14 +20,14 @@ IT student @ NEUST · Gapan City, Philippines · building fullstack from the gro
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**backend**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**also exploring**
+**Also Exploring**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ IT student @ NEUST · Gapan City, Philippines · building fullstack from the gro
 
 ---
 
-## 📊 github stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eimiii1&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165" />
@@ -46,15 +46,11 @@ IT student @ NEUST · Gapan City, Philippines · building fullstack from the gro
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eimiii1&theme=gruvbox&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eimiii1&theme=gruvbox&hide_border=true" />
-</p>
-
 ---
 
-## 📍 currently learning
+## 📍 Currently Learning
 
-grinding backend fundamentals — no frameworks until the foundation is solid.
+Grinding backend fundamentals — no frameworks until the foundation is solid.
 
 - [x] HTTP Basics
 - [ ] Server Architecture
@@ -67,4 +63,4 @@ grinding backend fundamentals — no frameworks until the foundation is solid.
 - [ ] Testing
 - [ ] DevOps & Deployment
 
-→ follow along: **[structured-backend](https://github.com/eimiii1/structured-backend)**
+→ Follow along: **[structured-backend](https://github.com/eimiii1/structured-backend)**
