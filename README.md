@@ -53,7 +53,7 @@ IT Student @ NEUST · Gapan City, Philippines · Building fullstack from the gro
 Grinding backend fundamentals — no frameworks until the foundation is solid.
 
 - [x] HTTP Basics
-- [ ] Server Architecture
+- [x] Server Architecture
 - [ ] REST APIs
 - [ ] Databases
 - [ ] Authentication & Authorization
