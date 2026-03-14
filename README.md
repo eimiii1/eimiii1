@@ -54,8 +54,8 @@ Grinding backend fundamentals — no frameworks until the foundation is solid.
 
 - [x] HTTP Basics
 - [x] Server Architecture
-- [ ] REST APIs
-- [ ] Databases
+- [x] REST APIs
+- [x] Databases
 - [ ] Authentication & Authorization
 - [ ] Caching
 - [ ] Security
